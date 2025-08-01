@@ -1,0 +1,7 @@
+D:\Users\MAYRA\OneDrive\Documentos\ing de sistemas UPB\certificacion 2\Triangulos\bin\Debug\Triangulos.exe.config
+D:\Users\MAYRA\OneDrive\Documentos\ing de sistemas UPB\certificacion 2\Triangulos\bin\Debug\Triangulos.exe
+D:\Users\MAYRA\OneDrive\Documentos\ing de sistemas UPB\certificacion 2\Triangulos\bin\Debug\Triangulos.pdb
+D:\Users\MAYRA\OneDrive\Documentos\ing de sistemas UPB\certificacion 2\Triangulos\obj\Debug\Triangulos.csproj.AssemblyReference.cache
+D:\Users\MAYRA\OneDrive\Documentos\ing de sistemas UPB\certificacion 2\Triangulos\obj\Debug\Triangulos.csproj.CoreCompileInputs.cache
+D:\Users\MAYRA\OneDrive\Documentos\ing de sistemas UPB\certificacion 2\Triangulos\obj\Debug\Triangulos.exe
+D:\Users\MAYRA\OneDrive\Documentos\ing de sistemas UPB\certificacion 2\Triangulos\obj\Debug\Triangulos.pdb
